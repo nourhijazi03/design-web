@@ -48,7 +48,7 @@ function Hero() {
         />
 
         <div
-          className={`block md:hidden w-full fixed ${
+          className={`block md:hidden w-screen fixed ${
             !showMobileMenu ? "-top-[410px]" : "top-0"
           } left-0 bg-[#dde0e5] h-[410px] transition-all duration-[800ms] shadow-xl z-10 py-8 px-12 rounded-b-xl`}
         >
