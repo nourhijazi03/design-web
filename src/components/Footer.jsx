@@ -89,7 +89,7 @@ import {
       <div className="w-full h-[1px] bg-white my-12" />
 
       <h6 className="text-white text-center text-base lg:text-lg">
-        &copy; Daunku - All rights reserved
+        &copy; Daunku - A Tutorial
       </h6>
       <h2 className="text-white text-center text-base lg:text-lg">Nour.H</h2>
     </div>
